@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/user"
 
-	"github.com/Ysoding/go-sqlite/repl"
+	"github.com/Ysoding/go-sqlite/cmd/repl"
 )
 
 func main() {
